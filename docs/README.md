@@ -35,7 +35,7 @@ We currently have four templates in two sizes, 36 x 24 (the standard for most CS
 
 ## More Help
 
-Now you might be thinking: "Wow, this is great, I'm so glad that I have access to awesome not terrible poster templates. My life is better because of this. This is so cool. Thank you." And you know, you're welcome. It's out pleasure. Really.
+Now you might be thinking: "Wow, this is great, I'm so glad that I have access to awesome not terrible poster templates. My life is better because of this. This is so cool. Thank you." And you know, you're welcome. It's our pleasure. Really.
 
 You might also be thinking: "Oh my god. This project is due in 2 hours and I'm totally screwed. I've never done a poster. What is it even supposed to be like?" And if that's where you're at this is the section of the page for you.
 
