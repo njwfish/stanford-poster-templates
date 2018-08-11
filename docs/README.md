@@ -6,7 +6,7 @@ So, you go to one of the greatest universities in the world. You spend most of a
 
 This is a smart move. There should be templates. Most universities afford students templates, they're an excellent way for institutions to ensure students follow university style guidelines. In fact, if you search for stanford templates you likely find this, from an electrical engineering course taught in 2016:
 
-.center[![](https://github.com/njwfish/stanford-posters-templates/blob/master/docs/36x24_bad.png)]
+<p align="center">![](https://github.com/njwfish/stanford-posters-templates/blob/master/docs/36x24_bad.png)]</p>
 
 This is a terrible poster template. It fails almost all of the [university style requirements](https://identity.stanford.edu/). 
 
@@ -43,7 +43,7 @@ Different posters from different disciplines will focus on different aspects of 
 
 But this goal is the goal of all scientific writing. So how should a poster present that narrative differently from a paper? 
 
-The difference is a paper is supposed to be everything, whereas the poster is only one component of a poster presentation (the other component being you standing there talking and pointing). A paper should lay everything out for the reader. But a poster is designed to be accompanied by a person. When someone is engaging with your poster, you should assume you'll be there to bridge the gaps and explain how things connect. In an ideal world your poster would be a visual aid to your presentation that could also stand on its own (like a paper should), but that's hard; **when in doubt, more visuals, fewer words, and if you can't really get the project just from the poster, that's ok.**
+The difference is a paper is supposed to be everything, whereas the poster is only one component of a poster presentation (the other component being you standing there talking and pointing). A paper should lay everything out for the reader. But a poster is designed to be accompanied by a person. When someone is engaging with your poster, you should assume you'll be there to bridge the gaps and explain how things connect. In an ideal world your poster would be a visual aid to your presentation that could also stand on its own (like a paper should), but that's hard; **when in doubt, more visuals, fewer words, and if a reader can't really understand the project just from the poster, that's ok.**
 
 That's why abstract sections on posters are great! The abstract on the poster can carry some of the burden, outlining the main points you'd make if you were presenting, and highlighting the important results. An abstract can help a poster stand on its own in case, god forbid, you need to go to the bathroom during the 3 hours you're supposed to be presenting.
 
