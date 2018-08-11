@@ -2,7 +2,7 @@
 
 ## The Problem
 
-So, you go to one of the greatest universities in the world. You spend most of a quarter, maybe 7 weeks of your life, working on a research project for a class. Then at the end you're told to make a poster. Something to display the fruits of your labor. Maybe you've never made a poster before; maybe you have made a poster but never while at Stanford. Regardless the first thing you probably do is search for templates. 
+You spend most of a quarter, maybe 7 weeks of your life, working on a research project for a class. Then at the end you're told to make a poster. Something to display the fruits of your labor. Maybe you've never made a poster before; maybe you have made a poster but never while at Stanford. Regardless the first thing you probably do is search for templates. 
 
 This is a smart move. There should be templates. Most universities afford students templates, they're an excellent way for institutions to ensure students follow university style guidelines. In fact, if you search for stanford templates you likely find this, from an electrical engineering course taught in 2016:
 
