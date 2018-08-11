@@ -6,7 +6,7 @@ So, you go to one of the greatest universities in the world. You spend most of a
 
 This is a smart move. There should be templates. Most universities afford students templates, they're an excellent way for institutions to ensure students follow university style guidelines. In fact, if you search for stanford templates you likely find this, from an electrical engineering course taught in 2016:
 
-<p align="center">![](https://github.com/njwfish/stanford-posters-templates/blob/master/docs/36x24_bad.png)]</p>
+<p align="center"><img src=https://github.com/njwfish/stanford-posters-templates/blob/master/docs/36x24_bad.png></p>
 
 This is a terrible poster template. It fails almost all of the [university style requirements](https://identity.stanford.edu/). 
 
