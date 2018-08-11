@@ -65,4 +65,4 @@ Ok, so what is the actual advice:
 
 Is this page terrible? Do you hate it? Do you think the advice is bad? Do you think the templates are awful? Do you want someone to yell at? Maybe you aren't mad (unlikely), and just want to help improve this resource.
 
-Send an email to njwfish (at) stanford (dot) edu. We'd love editting on this page, your own poster templates, poster examples (bonus points if you use these templates), or any other contributions.
+Send an email to njwfish (at) stanford (dot) edu. We'd love editing on this page, your own poster templates, poster examples (bonus points if you use these templates), or any other contributions.
