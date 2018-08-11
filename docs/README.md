@@ -1,5 +1,7 @@
 # Stanford Poster Project
 
+This is a repository of poster templates for use in creating posters for classes or presentations for Stanford University.
+
 ## The Problem
 
 You spend most of a quarter, maybe 7 weeks of your life, working on a research project for a class. Then at the end you're told to make a poster. Something to display the fruits of your labor. Maybe you've never made a poster before; maybe you have made a poster but never while at Stanford. Regardless the first thing you probably do is search for templates. 
