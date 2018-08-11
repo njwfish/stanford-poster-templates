@@ -6,7 +6,7 @@ So, you go to one of the greatest universities in the world. You spend most of a
 
 This is a smart move. There should be templates. Most universities afford students templates, they're an excellent way for institutions to ensure students follow university style guidelines. In fact, if you search for stanford templates you likely find this, from an electrical engineering course taught in 2016:
 
-
+![](https://github.com/njwfish/stanford-posters-templates/blob/master/docs/36x24_bad.png)
 
 This is a terrible poster template. It fails almost all of the [university style requirements](https://identity.stanford.edu/). 
 
@@ -22,7 +22,13 @@ Despite all of this, when you walk around a Stanford poster presentation, all yo
 
 The key to good design is following the style guidelines. Well really the key to good design is being a good designer with a good artistic sense, but that's not super actionable. Second best for those of us who don't have the flair for designwould be getting expert advice. The experts are busy though, and don't have time to deal with thousands of requests to help design posters for CS {insert number here}. So the experts make style guidelines. Which beings us back to 1: follow the style guidelines.
 
-Following this principle, the templates here are designed in accordance with all university guidelines on color, typography, and branding. As such they are *only to be used by university students presenting on behalf of the university.* We take no responsibility if you use this to present your startup idea to some VC firm and then Stanford sues you for everything. 
+Following this principle, the templates here are designed in accordance with all university guidelines on color, typography, and branding. As such they are **only to be used by university students presenting on behalf of the university.** We take no responsibility if you use this to present your startup idea to some VC firm and then Stanford sues you for everything. 
 
 We currently have four templates in two sizes, 36 x 24 (the standard for most CS classes) and 42 x 36 (the standard for most other things). Each size offers a template with an abstract and a template without an abstract.
+
+36 x 24             |  42 x 36
+:-------------------------:|:-------------------------:
+![](https://github.com/njwfish/stanford-posters-templates/blob/master/docs/36x24.png)  |  https://github.com/njwfish/stanford-posters-templates/blob/master/docs/42x36.png
+:-------------------------:|:-------------------------:
+![](https://github.com/njwfish/stanford-posters-templates/blob/master/docs/36x24_abs.png) |https://github.com/njwfish/stanford-posters-templates/blob/master/docs/42x36_abs.png
 
