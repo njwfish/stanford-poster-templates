@@ -28,7 +28,6 @@ We currently have four templates in two sizes, 36 x 24 (the standard for most CS
 
 36 x 24             |  42 x 36
 :-------------------------:|:-------------------------:
-![](https://github.com/njwfish/stanford-posters-templates/blob/master/docs/36x24.png)  |  https://github.com/njwfish/stanford-posters-templates/blob/master/docs/42x36.png
-:-------------------------:|:-------------------------:
-![](https://github.com/njwfish/stanford-posters-templates/blob/master/docs/36x24_abs.png) |https://github.com/njwfish/stanford-posters-templates/blob/master/docs/42x36_abs.png
+![](https://github.com/njwfish/stanford-posters-templates/blob/master/docs/36x24.png)  |  ![](https://github.com/njwfish/stanford-posters-templates/blob/master/docs/42x36.png)
+![](https://github.com/njwfish/stanford-posters-templates/blob/master/docs/36x24_abs.png) | ![](https://github.com/njwfish/stanford-posters-templates/blob/master/docs/42x36_abs.png)
 
