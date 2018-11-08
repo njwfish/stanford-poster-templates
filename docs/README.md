@@ -1,5 +1,10 @@
 # Stanford Poster Project
 
+36 x 24             |  42 x 36
+:-------------------------:|:-------------------------:
+![](https://github.com/njwfish/stanford-posters-templates/blob/master/docs/36x24.png)  |  ![](https://github.com/njwfish/stanford-posters-templates/blob/master/docs/42x36.png)
+![](https://github.com/njwfish/stanford-posters-templates/blob/master/docs/36x24_abs.png) | ![](https://github.com/njwfish/stanford-posters-templates/blob/master/docs/42x36_abs.png)
+
 This is a repository of poster templates for use in creating posters for classes or presentations for Stanford University.
 
 ## The Problem
